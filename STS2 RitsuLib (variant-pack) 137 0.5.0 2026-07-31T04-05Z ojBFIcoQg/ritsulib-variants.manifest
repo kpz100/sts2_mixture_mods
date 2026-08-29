@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "variants": [
+    {
+      "compatTarget": "0.107.1",
+      "directory": "lib/0.107.1",
+      "assembly": "STS2-RitsuLib.dll",
+      "sha256": "4779d939e9cc458cb279e51e71a2373793b2e9d5f9ac7630a05771e0f64e442c"
+    },
+    {
+      "compatTarget": "0.108.0",
+      "directory": "lib/0.108.0",
+      "assembly": "STS2-RitsuLib.dll",
+      "sha256": "101ec6ff23cd18efe4df6eb0b96147277d3d8a86584223cd44549d37691b6634"
+    },
+    {
+      "compatTarget": "0.109.0",
+      "directory": "lib/0.109.0",
+      "assembly": "STS2-RitsuLib.dll",
+      "sha256": "d1fa861335319dec5e7ec0c98e7eaf5d0962e93a1a2dd6ca6b246eee97d4d888"
+    },
+    {
+      "compatTarget": "0.110.0",
+      "directory": "lib/0.110.0",
+      "assembly": "STS2-RitsuLib.dll",
+      "sha256": "54e42015cdac3a3898a12f0b76815e34c7b170c6c8f5554cd1ee5ebfabde7636"
+    }
+  ]
+}

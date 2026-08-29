@@ -1,0 +1,11 @@
+{
+  "id": "TestMod_109",
+  "name": "TestMod_109",
+  "author": "AX",
+  "description": "",
+  "version": "1.0.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
