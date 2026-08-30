@@ -1,6 +1,14 @@
 # 暂定文件：GetMods（mod 下载/管理工具脚本，暂不纳入版本库）
 GetMods*
 
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller 构建中间产物
+build/
+*.spec
+
 # IDE / 编辑器
 .vs/
 .idea/
