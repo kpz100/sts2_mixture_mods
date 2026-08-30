@@ -1,1 +1,1 @@
-mixture_v1.1.0
+mixture_v1.1.1

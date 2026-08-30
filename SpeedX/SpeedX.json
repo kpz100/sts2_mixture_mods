@@ -6,6 +6,6 @@
   "version": "0.11.10",
   "has_pck": true,
   "has_dll": true,
-  "dependencies": [],
+  "dependencies": [{"id": "STS2-ShowPlayerHandCards"}],
   "affects_gameplay": false
 }
